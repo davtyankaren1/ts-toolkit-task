@@ -1,0 +1,48 @@
+.foods {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  justify-content: start;
+}
+
+.food {
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 128, 0.808);
+  box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.5);
+  padding: 20px;
+  margin: 10px;
+  display: flex;
+  border-radius: 15px;
+  color: white;
+  font-weight: bold;
+}
+
+.food_info {
+  width: 270px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.actions {
+  border: none;
+  font-size: 22px;
+  padding: 5px;
+  margin: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+  display: flex;
+  width: 100px;
+  justify-content: space-around;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+label {
+  font-size: 30px;
+  color: navy;
+}

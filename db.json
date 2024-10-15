@@ -1,0 +1,22 @@
+{
+  "foods": [
+    {
+      "name": "Frances Chen",
+      "price": "8",
+      "country": "Nobis et perspiciati",
+      "id": 1
+    },
+    {
+      "name": "Amos Riley",
+      "price": "332",
+      "country": "Quaerat molestiae fu",
+      "id": 2
+    },
+    {
+      "name": "Chadwick Manning",
+      "price": "362",
+      "country": "Vitae necessitatibus",
+      "id": 3
+    }
+  ]
+}

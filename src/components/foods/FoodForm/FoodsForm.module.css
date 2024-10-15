@@ -1,0 +1,59 @@
+.container {
+  margin-top: 30px;
+  background-color: navy;
+  padding: 20px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  color: white;
+}
+
+form label {
+  font-family: 'Arial';
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-size: 15px;
+}
+
+form input {
+  outline: none;
+  border: none;
+  height: 45px;
+  width: 400px;
+  margin-top: 5px;
+  padding: 10px;
+  font-family: 'Arial';
+  font-weight: bold;
+  font-size: 19px;
+  color: navy;
+}
+
+.form-control {
+  margin: 20px 0;
+}
+
+button[type='submit'],
+button[type='button'] {
+  background-color: whitesmoke;
+  border: 1px solid white;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 5px 50px;
+  margin-bottom: 20px;
+}
+
+.buttons {
+  margin: auto;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  align-items: center;
+}
+
+.button-control {
+  text-align: center;
+}

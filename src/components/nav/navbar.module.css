@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  margin: 10px;
+  text-decoration: none;
+  font-size: 20px;
+  color: navy;
+  font-weight: bold;
+}
+
+.active {
+  font-weight: bold;
+  color: skyblue;
+}
